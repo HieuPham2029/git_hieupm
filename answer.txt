@@ -1,0 +1,3 @@
+Ở yêu cầu 8: sử dụng lệnh git checkout -b feature_hieupm_rebase
+
+Ở yêu cầu 14: sử dụng lệnh git merge feature_hieupm
